@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Hayat</h1>
 <h3 align="center">A passionate Digital Marketer & frontend developer from Pakistan.</h3>
 
-<img align = "right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0oYlsBpuvYnBxEditgwpdF&ust=1760796127573000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjv8vWyq5ADFQAAAAAdAAAAABAE" alt = "Coding"/>
+<img align = "right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0oYlsBpuvYnBxEditgwpdF&ust=1760796127573000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjv8vWyq5ADFQAAAAAdAAAAABAE" alt = "Coding">
 
 - 🌱 I’m currently learning **MERN Stack**
 
